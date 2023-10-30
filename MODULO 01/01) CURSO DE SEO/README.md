@@ -1,0 +1,6 @@
+# CURSO DE SEO
+O SEO é um conjunto de práticas e técnicas para melhorar o desempenho de um site nos resultados dos motores de busca. É fundamental para qualquer negócio ou site que deseja aumentar sua visibilidade online e atrair tráfego orgânico de qualidade.
+
+A importância de aprender SEO reside no fato de que os motores de busca desempenham um papel crucial na descoberta de conteúdo na internet. As pessoas frequentemente recorrem ao Google e outros mecanismos de busca para encontrar informações, produtos e serviços. Portanto, se o seu site não estiver otimizado para os motores de busca, ele pode passar despercebido e perder oportunidades de negócios.
+
+Além disso, os motores de busca estão em constante evolução, e os algoritmos que determinam os rankings também mudam. Portanto, é fundamental estar atualizado sobre os mais modernos fatores de ranqueamento. Isso envolve entender como os motores de busca avaliam a relevância e a autoridade do conteúdo, a importância de fatores como palavras-chave, links de qualidade, experiência do usuário e otimização técnica do site. O conhecimento desses fatores ajuda a posicionar seu site de forma mais eficaz nos resultados de pesquisa, o que pode levar a um aumento no tráfego e no sucesso online.
