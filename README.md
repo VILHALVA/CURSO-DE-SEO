@@ -2,6 +2,7 @@
 👨‍⚖️SEO (SEARCH ENGINE OPTIMIZATION) É UM CONJUNTO DE ESTRATÉGIAS E TÉCNICAS UTILIZADAS PARA OTIMIZAR UM SITE E MELHORAR SUA VISIBILIDADE NOS RESULTADOS DOS MECANISMOS DE BUSCA, COMO O GOOGLE. O OBJETIVO DO SEO É AUMENTAR O TRÁFEGO ORGÂNICO DO SITE, MELHORAR SUA POSIÇÃO NOS RANKINGS DE PESQUISA E ATRAIR MAIS VISITANTES QUALIFICADOS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=SEO)
 
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%2001-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dm4pBTRvBFMpSXvEoymoa90&si=G2qrtNo78czqfaqr)
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%2002-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dn43Vrha_Ks35x4EHmYrn0q&si=iLKcGEkhbaLskAoM)
