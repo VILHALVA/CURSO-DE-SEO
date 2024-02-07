@@ -1,12 +1,9 @@
 # CURSO DE SEO
 👨‍⚖️SEO (SEARCH ENGINE OPTIMIZATION) É UM CONJUNTO DE ESTRATÉGIAS E TÉCNICAS UTILIZADAS PARA OTIMIZAR UM SITE E MELHORAR SUA VISIBILIDADE NOS RESULTADOS DOS MECANISMOS DE BUSCA, COMO O GOOGLE. O OBJETIVO DO SEO É AUMENTAR O TRÁFEGO ORGÂNICO DO SITE, MELHORAR SUA POSIÇÃO NOS RANKINGS DE PESQUISA E ATRAIR MAIS VISITANTES QUALIFICADOS.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+<img src="FOTO.png" align="center" width="400"> <br>
 
-[![GitHub Repo stars](https://img.shields.io/badge/-MODULO%2001-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dm4pBTRvBFMpSXvEoymoa90&si=G2qrtNo78czqfaqr)
-[![GitHub Repo stars](https://img.shields.io/badge/-MODULO%2002-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dn43Vrha_Ks35x4EHmYrn0q&si=iLKcGEkhbaLskAoM)
-
-# CONCEITO:
+## CONCEITO:
 O conceito de SEO (Search Engine Optimization) refere-se a um conjunto de práticas e técnicas que têm como objetivo otimizar um site, página da web ou conteúdo online para melhorar seu desempenho nos resultados dos motores de busca, como o Google, Bing, Yahoo, entre outros. O objetivo principal do SEO é aumentar a visibilidade de um site nos resultados orgânicos (não pagos) dos motores de busca, o que pode levar a um aumento no tráfego orgânico, maior autoridade online e, em última instância, melhores resultados para a empresa ou indivíduo que possui o site.
 
 As principais áreas de foco do SEO incluem:
@@ -24,3 +21,9 @@ As principais áreas de foco do SEO incluem:
 6. **Análise de dados:** Utilizar ferramentas de análise para acompanhar o desempenho, entender o comportamento dos visitantes e ajustar sua estratégia de SEO com base em dados concretos.
 
 O SEO é uma disciplina em constante evolução, devido aos algoritmos em constante mudança dos motores de busca. Portanto, é importante que profissionais de SEO estejam atualizados e se adaptem a novas tendências e práticas recomendadas para obter os melhores resultados nos rankings de busca.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/@CursoemVideo)
+  - [MODULO 01](https://youtube.com/playlist?list=PLHz_AreHm4dm4pBTRvBFMpSXvEoymoa90&si=G2qrtNo78czqfaqr)
+  - [MODULO 02](https://youtube.com/playlist?list=PLHz_AreHm4dn43Vrha_Ks35x4EHmYrn0q&si=iLKcGEkhbaLskAoM)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
