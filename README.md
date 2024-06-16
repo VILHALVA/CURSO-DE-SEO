@@ -23,7 +23,7 @@ As principais áreas de foco do SEO incluem:
 O SEO é uma disciplina em constante evolução, devido aos algoritmos em constante mudança dos motores de busca. Portanto, é importante que profissionais de SEO estejam atualizados e se adaptem a novas tendências e práticas recomendadas para obter os melhores resultados nos rankings de busca.
 
 ## SUBSIDIOS:
-- [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/@CursoemVideo)
+- [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/c/CursoemV%C3%ADdeo)
   - [MODULO 01](https://youtube.com/playlist?list=PLHz_AreHm4dm4pBTRvBFMpSXvEoymoa90&si=G2qrtNo78czqfaqr)
   - [MODULO 02](https://youtube.com/playlist?list=PLHz_AreHm4dn43Vrha_Ks35x4EHmYrn0q&si=iLKcGEkhbaLskAoM)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
